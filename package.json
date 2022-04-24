@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "@ledgerhq/hw-transport-node-hid": "^6.24.1",
+    "@ledgerhq/hw-transport-u2f": "^5.36.0-deprecated",
+    "@ledgerhq/hw-transport-webusb": "^6.24.1",
+    "@noble/secp256k1": "^1.5.5",
+    "@tacoinfra/tezos-kms": "^1.1.1",
+    "@taquito/ledger-signer": "^12.0.1",
+    "@taquito/signer": "^12.0.1",
+    "@taquito/taquito": "^12.0.1",
+    "child_process": "^1.0.2",
+    "sotez": "^11.0.0",
+    "typescript": "^4.6.3"
+  },
+  "devDependencies": {
+    "ts-node": "^10.7.0"
+  }
+}
