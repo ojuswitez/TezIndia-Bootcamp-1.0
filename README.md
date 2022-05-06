@@ -40,7 +40,7 @@ B.Tech undergrad working on Business Applications on the Tezos Blockchain. Mento
    -  Workshop Instructor, Tezos India. & Blockchain Developer, Instaraise
 
 ## Final Project
-- [GitHub Repository Link](.)
+- [GitHub Repository Link](https://github.com/ojuswitez/TezIndia-Bootcamp-1.0)
 
 ## Resources
 - [Tezos Developer Portal](https://tezos.com/developer-portal/)
